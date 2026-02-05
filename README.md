@@ -146,3 +146,7 @@ pixelOffice.getSessions()
 
 - Click the **sun** to restart the server
 - Click the **title** to rename your office (saved to localStorage)
+
+## Inspiration
+
+This project was inspired by [PixelHQ](https://www.reddit.com/r/ClaudeCode/comments/1qrbsfa/i_built_a_pixel_office_that_animates_in_realtime/) by [u/Waynedevvv](https://www.reddit.com/user/Waynedevvv/) - a mobile app that does the same concept on your phone. Check out the original if you want a native iOS experience!
