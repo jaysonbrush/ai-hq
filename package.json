@@ -1,0 +1,16 @@
+{
+  "name": "ai-hq",
+  "version": "1.0.0",
+  "description": "A pixel art office visualization for Claude Code sessions. Watch your AI assistant work in real-time!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["claude", "pixel-art", "visualization", "claude-code"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}
